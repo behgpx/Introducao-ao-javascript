@@ -9,3 +9,4 @@ Desafios concluídos:
 - Criado condicionais que desabilitam o botão de incrementar ou decrementar quando count chegar aos valores -10 e 10).
 
 - Texto muda a cor para vermelho quando CURRENT_NUMBER se torna negativo.
+
